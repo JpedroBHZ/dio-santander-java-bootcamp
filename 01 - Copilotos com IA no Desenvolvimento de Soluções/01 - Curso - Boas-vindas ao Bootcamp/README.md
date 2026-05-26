@@ -9,12 +9,12 @@
 ---
 
 ## 📖 Descrição
-(Descrição da seção)
+Introdução geral ao programa de formação do Santander. Apresentação da estrutura da jornada de aprendizado, panorama das habilidades que impulsionam a carreira no mercado atual, uso estratégico de IA para acelerar os estudos e uma visão geral dos projetos práticos que serão construídos ao longo do curso.
 
 ---
 
 ## 🎯 Objetivos de Aprendizado
-- [ ] Objetivo da Seção
+- Nenhum (Seção introdutória e de contextualização)
 
 ---
 
