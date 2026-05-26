@@ -9,7 +9,7 @@
 ---
 
 ## 📖 Descrição
-(Descrição da seção)
+Gravação da live oficial de lançamento do Santander Bootcamp para o 1° semestre de 2026. O evento contou com a participação de representantes do Santander (Luiz Gustavo Fonseca e Pedro Santos), abordando os objetivos do programa, a estrutura das trilhas de aprendizado, as oportunidades do mercado financeiro/tecnológico e dicas estratégicas para os alunos
 
 ---
 
