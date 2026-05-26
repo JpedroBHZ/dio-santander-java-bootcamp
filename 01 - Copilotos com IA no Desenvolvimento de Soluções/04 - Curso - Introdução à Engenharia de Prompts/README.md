@@ -9,12 +9,14 @@
 ---
 
 ## 📖 Descrição
-(Descrição da seção)
+Introdução aos fundamentos da Engenharia de Prompts, explorando o funcionamento interno dos Modelos de Linguagem (LLMs) em relação à interpretação de instruções e gerenciamento de contexto (memória). A seção detalha os elementos essenciais para estruturar comandos eficazes, as aplicações práticas dessa técnica no cotidiano profissional e os cuidados necessários ao lidar com as limitações dos modelos.
 
 ---
 
 ## 🎯 Objetivos de Aprendizado
-- [ ] Objetivo da Seção
+- Compreender como as LLMs processam prompts e gerenciam o contexto da conversa.
+- Identificar e aplicar os elementos essenciais (contexto, instrução, dados de entrada e indicadores de saída) para construir comandos eficientes.
+- Utilizar a engenharia de prompts para otimizar tarefas diárias, mitigando riscos comuns como alucinações e vieses das ferramentas de IA.
 
 ---
 
