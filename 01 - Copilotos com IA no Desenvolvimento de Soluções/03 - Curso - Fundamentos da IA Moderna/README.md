@@ -9,12 +9,12 @@
 ---
 
 ## 📖 Descrição
-(Descrição da seção)
+Imersão teórica na história e nos pilares conceituais da Inteligência Artificial. O conteúdo aborda desde a origem histórica da IA até os mecanismos modernos de funcionamento tecnológico, explicando o processo de treinamento de Grandes Modelos de Linguagem (LLMs), os conceitos fundamentais de Deep Learning (Aprendizado Profundo) e o impacto disruptivo da era das IAs Generativas no mercado atual.
 
 ---
 
 ## 🎯 Objetivos de Aprendizado
-- [ ] Objetivo da Seção
+- Nenhum (Seção teórica focada em fundamentos e conceitos).
 
 ---
 
